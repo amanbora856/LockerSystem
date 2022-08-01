@@ -1,0 +1,15 @@
+{
+  "name": "locker_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache": "^7.4.0",
+    "truffle": "^5.5.24"
+  }
+}
